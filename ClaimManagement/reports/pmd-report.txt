@@ -1,0 +1,367 @@
+src/main/java/com/bo/ClaimBO.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/bo/ClaimBO.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bo/ClaimBO.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'reclaim'
+src/main/java/com/bo/ClaimBO.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bo/ClaimBO.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/ClaimBO.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addClaim' is not assigned and could be declared final
+src/main/java/com/bo/ClaimBO.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/ClaimBO.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/bo/ClaimBO.java:22:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/bo/ClaimBO.java:23:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'clm' could be declared final
+src/main/java/com/bo/ClaimBO.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/ClaimBO.java:31:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/ClaimBO.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'upClaim' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/bo/CustomerBO.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/bo/CustomerBO.java:14:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/bo/CustomerBO.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'recustomer'
+src/main/java/com/bo/CustomerBO.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/bo/CustomerBO.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id1' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:22:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name1' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:26:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name1' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email1' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'streetName' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:43:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email1' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:47:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:51:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:55:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:60:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:60:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addCustomer' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/bo/CustomerBO.java:65:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/bo/CustomerBO.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'custom' could be declared final
+src/main/java/com/bo/CustomerBO.java:70:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:74:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/bo/CustomerBO.java:74:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'upCustomer' is not assigned and could be declared final
+src/main/java/com/dao/ClaimRepository.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/dao/CustomerClaimCustomized.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/dao/CustomerClaimCustomized.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerClaimCustomized.java:5:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getName': the method is declared in an interface type
+src/main/java/com/dao/CustomerClaimCustomized.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerClaimCustomized.java:6:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getStreet': the method is declared in an interface type
+src/main/java/com/dao/CustomerClaimCustomized.java:7:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerClaimCustomized.java:7:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getEmail': the method is declared in an interface type
+src/main/java/com/dao/CustomerCustomized.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/dao/CustomerCustomized.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerCustomized.java:4:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getName': the method is declared in an interface type
+src/main/java/com/dao/CustomerCustomized.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerCustomized.java:6:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getStreet': the method is declared in an interface type
+src/main/java/com/dao/CustomerRepository.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/dao/CustomerRepository.java:16:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/dao/CustomerRepository.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:17:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/dao/CustomerRepository.java:20:	UnnecessaryAnnotationValueElement:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/dao/CustomerRepository.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:33:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:39:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:47:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:54:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dao/CustomerRepository.java:60:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/dto/ClaimDTO.java:8:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dto/ClaimDTO.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/dto/ClaimDTO.java:8:	DataClass:	DataClass: The class 'ClaimDTO' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/dto/ClaimDTO.java:8:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/dto/ClaimDTO.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/ClaimDTO.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/ClaimDTO.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/ClaimDTO.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/ClaimDTO.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/ClaimDTO.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'customer'
+src/main/java/com/dto/ClaimDTO.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/ClaimDTO.java:15:	NonSerializableClass:	NonSerializableClass: The field 'customer' of serializable class 'com.dto.ClaimDTO' is of non-serializable type 'com.entity.Customer'.
+src/main/java/com/dto/ClaimDTO.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claimId' is not assigned and could be declared final
+src/main/java/com/dto/ClaimDTO.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/dto/ClaimDTO.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/dto/ClaimDTO.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'createdAt' is not assigned and could be declared final
+src/main/java/com/dto/ClaimDTO.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedAt' is not assigned and could be declared final
+src/main/java/com/dto/ClaimDTO.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customer' is not assigned and could be declared final
+src/main/java/com/dto/CustomerDTO.java:6:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/dto/CustomerDTO.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/dto/CustomerDTO.java:6:	DataClass:	DataClass: The class 'CustomerDTO' is suspected to be a Data Class (WOC=6.667%, NOPA=0, NOAM=14, WMC=15)
+src/main/java/com/dto/CustomerDTO.java:6:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/dto/CustomerDTO.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/CustomerDTO.java:7:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/dto/CustomerDTO.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/CustomerDTO.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/CustomerDTO.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/CustomerDTO.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/CustomerDTO.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/CustomerDTO.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/dto/CustomerDTO.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/dto/CustomerDTO.java:17:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/dto/CustomerDTO.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/dto/CustomerDTO.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/dto/CustomerDTO.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'street' is not assigned and could be declared final
+src/main/java/com/dto/CustomerDTO.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'contactNumber' is not assigned and could be declared final
+src/main/java/com/dto/CustomerDTO.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'createdAt' is not assigned and could be declared final
+src/main/java/com/dto/CustomerDTO.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedAt' is not assigned and could be declared final
+src/main/java/com/entity/Claim.java:27:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/entity/Claim.java:27:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/entity/Claim.java:27:	DataClass:	DataClass: The class 'Claim' is suspected to be a Data Class (WOC=7.692%, NOPA=0, NOAM=12, WMC=13)
+src/main/java/com/entity/Claim.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Claim.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Claim.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Claim.java:44:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Claim.java:49:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Claim.java:55:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'customer'
+src/main/java/com/entity/Claim.java:55:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Claim.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customer' is not assigned and could be declared final
+src/main/java/com/entity/Claim.java:71:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claimId' is not assigned and could be declared final
+src/main/java/com/entity/Claim.java:79:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/entity/Claim.java:88:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/main/java/com/entity/Claim.java:96:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'createdAt' is not assigned and could be declared final
+src/main/java/com/entity/Claim.java:104:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedAt' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:34:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/entity/Customer.java:34:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/entity/Customer.java:34:	DataClass:	DataClass: The class 'Customer' is suspected to be a Data Class (WOC=5.882%, NOPA=0, NOAM=16, WMC=17)
+src/main/java/com/entity/Customer.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:37:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/entity/Customer.java:41:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:45:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:48:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:52:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:56:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:62:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:67:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/entity/Customer.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'claim' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:83:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/entity/Customer.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:100:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:108:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'street' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:116:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'contactNumber' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:124:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'createdAt' is not assigned and could be declared final
+src/main/java/com/entity/Customer.java:132:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedAt' is not assigned and could be declared final
+src/main/java/com/example/demo/ClaimManagementApplication.java:3:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.ArrayList'
+src/main/java/com/example/demo/ClaimManagementApplication.java:4:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.List'
+src/main/java/com/example/demo/ClaimManagementApplication.java:13:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.entity.Customer'
+src/main/java/com/example/demo/ClaimManagementApplication.java:15:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.dao.CustomerClaimCustomized'
+src/main/java/com/example/demo/ClaimManagementApplication.java:16:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.dao.CustomerCustomized'
+src/main/java/com/example/demo/ClaimManagementApplication.java:17:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.entity.Claim'
+src/main/java/com/example/demo/ClaimManagementApplication.java:18:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.service.ClaimService'
+src/main/java/com/example/demo/ClaimManagementApplication.java:28:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/example/demo/ClaimManagementApplication.java:28:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/example/demo/ClaimManagementApplication.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/example/demo/ClaimManagementApplication.java:30:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/com/example/demo/ClaimManagementApplication.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/example/demo/ClaimManagementApplication.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ctx' could be declared final
+src/main/java/com/example/demo/ClaimManagementApplication.java:34:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'service'.
+src/main/java/com/example/demo/ClaimManagementApplication.java:44:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/example/demo/ClaimManagementApplication.java:55:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/example/demo/ClaimManagementApplication.java:100:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/example/demo/ClaimManagementApplication.java:111:	CommentSize:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/example/demo/ClaimManagementApplication.java:136:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/example/demo/ClaimManagementApplication.java:138:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/example/demo/ClaimManagementApplication.java:144:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/example/demo/ClaimManagementApplication.java:152:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/example/demo/ClaimManagementApplication.java:154:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/example/demo/ClaimManagementApplication.java:164:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/example/demo/ClaimManagementApplication.java:170:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/exception/CustomerNotFoundException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/exception/CustomerNotFoundException.java:3:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/exception/CustomerNotFoundException.java:5:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/exception/CustomerNotFoundException.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/exception/CustomerNotFoundException.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/exception/CustomerNotFoundException.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'enableSuppression' is not assigned and could be declared final
+src/main/java/com/exception/CustomerNotFoundException.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/exception/CustomerNotFoundException.java:11:	LongVariable:	LongVariable: Avoid excessively long variable names like writableStackTrace
+src/main/java/com/exception/CustomerNotFoundException.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'writableStackTrace' is not assigned and could be declared final
+src/main/java/com/exception/CustomerNotFoundException.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/exception/CustomerNotFoundException.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/exception/CustomerNotFoundException.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/exception/CustomerNotFoundException.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/response/ResponseObject.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/response/ResponseObject.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/response/ResponseObject.java:3:	DataClass:	DataClass: The class 'ResponseObject' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/main/java/com/response/ResponseObject.java:4:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'successMessage'
+src/main/java/com/response/ResponseObject.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/response/ResponseObject.java:5:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'failureMessage'
+src/main/java/com/response/ResponseObject.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/response/ResponseObject.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'successMessage' is not assigned and could be declared final
+src/main/java/com/response/ResponseObject.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'failureMessage' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:6:	UnnecessaryImport:	UnnecessaryImport: Unused import 'org.springframework.http.ResponseEntity'
+src/main/java/com/rest/ClaimAndCustomerService.java:15:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.dto.ClaimDTO'
+src/main/java/com/rest/ClaimAndCustomerService.java:19:	UnnecessaryImport:	UnnecessaryImport: Unused import 'com.response.ResponseObject'
+src/main/java/com/rest/ClaimAndCustomerService.java:22:	UnnecessaryImport:	UnnecessaryImport: Unused import 'java.util.logging.Logger'
+src/main/java/com/rest/ClaimAndCustomerService.java:26:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/rest/ClaimAndCustomerService.java:26:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:26:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/rest/ClaimAndCustomerService.java:28:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'service1'
+src/main/java/com/rest/ClaimAndCustomerService.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:31:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'service2'
+src/main/java/com/rest/ClaimAndCustomerService.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:44:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:45:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:46:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:47:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:48:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:49:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/rest/ClaimAndCustomerService.java:54:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c1' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:54:	ShortVariable:	ShortVariable: Avoid variables with short names like c1
+src/main/java/com/rest/ClaimAndCustomerService.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:66:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/rest/ClaimAndCustomerService.java:67:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:68:	PrimitiveWrapperInstantiation:	PrimitiveWrapperInstantiation: Do not use `new Long(...)`, prefer `Long.valueOf(...)`
+src/main/java/com/rest/ClaimAndCustomerService.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/rest/ClaimAndCustomerService.java:68:	UnnecessaryBoxing:	UnnecessaryBoxing: Unnecessary explicit boxing
+src/main/java/com/rest/ClaimAndCustomerService.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dto' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:83:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:84:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'customers' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:85:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dtos' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:88:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/rest/ClaimAndCustomerService.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'dto' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:106:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:106:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:106:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:106:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/rest/ClaimAndCustomerService.java:108:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:110:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:111:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:111:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/rest/ClaimAndCustomerService.java:116:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c1' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:116:	ShortVariable:	ShortVariable: Avoid variables with short names like c1
+src/main/java/com/rest/ClaimAndCustomerService.java:117:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c2' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:117:	ShortVariable:	ShortVariable: Avoid variables with short names like c2
+src/main/java/com/rest/ClaimAndCustomerService.java:133:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:133:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'msg' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:134:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:135:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:136:	LawOfDemeter:	LawOfDemeter: Call to `getCustomer` on foreign value `msg` (degree 1)
+src/main/java/com/rest/ClaimAndCustomerService.java:136:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:137:	LawOfDemeter:	LawOfDemeter: Call to `getCustomer` on foreign value `msg` (degree 1)
+src/main/java/com/rest/ClaimAndCustomerService.java:137:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c1' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:137:	ShortVariable:	ShortVariable: Avoid variables with short names like c1
+src/main/java/com/rest/ClaimAndCustomerService.java:138:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:139:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:139:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/rest/ClaimAndCustomerService.java:142:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:143:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:152:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:152:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:152:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/rest/ClaimAndCustomerService.java:153:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:154:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:154:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/rest/ClaimAndCustomerService.java:161:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:169:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:170:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fetchAll' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:170:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'fetchAll'
+src/main/java/com/rest/ClaimAndCustomerService.java:178:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:178:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:178:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'updatedClaim' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:178:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/rest/ClaimAndCustomerService.java:179:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:182:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:182:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/rest/ClaimAndCustomerService.java:186:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:187:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/rest/ClaimAndCustomerService.java:196:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:196:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:196:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/rest/ClaimAndCustomerService.java:197:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'greaterThan' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:197:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'greaterThan'
+src/main/java/com/rest/ClaimAndCustomerService.java:205:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:205:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:206:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'charname' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:206:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'charname'
+src/main/java/com/rest/ClaimAndCustomerService.java:214:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:215:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'totalCustomers' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:215:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'totalCustomers'
+src/main/java/com/rest/ClaimAndCustomerService.java:222:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:222:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:222:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'streetName' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:223:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'emailStreet' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:223:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'emailStreet'
+src/main/java/com/rest/ClaimAndCustomerService.java:230:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:230:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:231:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'fewCustomers' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:231:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'fewCustomers'
+src/main/java/com/rest/ClaimAndCustomerService.java:240:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:241:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'orderBy' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:241:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'orderBy'
+src/main/java/com/rest/ClaimAndCustomerService.java:248:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:248:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email' is not assigned and could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:249:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'customerEmail' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:249:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'customerEmail'
+src/main/java/com/rest/ClaimAndCustomerService.java:256:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:257:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'joinCustomers' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:257:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'joinCustomers'
+src/main/java/com/rest/ClaimAndCustomerService.java:264:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:265:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'leftOuter' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:265:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'leftOuter'
+src/main/java/com/rest/ClaimAndCustomerService.java:272:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/rest/ClaimAndCustomerService.java:273:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'customerCustomized' could be declared final
+src/main/java/com/rest/ClaimAndCustomerService.java:273:	LongVariable:	LongVariable: Avoid excessively long variable names like customerCustomized
+src/main/java/com/rest/ClaimAndCustomerService.java:273:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'customerCustomized'
+src/main/java/com/service/ClaimService.java:12:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/service/ClaimService.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/service/ClaimService.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'servicesBO'
+src/main/java/com/service/ClaimService.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/service/ClaimService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/ClaimService.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addClaim' is not assigned and could be declared final
+src/main/java/com/service/ClaimService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/ClaimService.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/service/ClaimService.java:21:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/service/ClaimService.java:26:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/ClaimService.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/ClaimService.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'upClaim' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:17:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/service/CustomerService.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/service/CustomerService.java:17:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/service/CustomerService.java:19:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'serviceBO'
+src/main/java/com/service/CustomerService.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/service/CustomerService.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'serviceClaimBO'
+src/main/java/com/service/CustomerService.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/service/CustomerService.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cl' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/service/CustomerService.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like cl
+src/main/java/com/service/CustomerService.java:28:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/service/CustomerService.java:30:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/service/CustomerService.java:31:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/service/CustomerService.java:33:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/service/CustomerService.java:36:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id1' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name1' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:44:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:44:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'name1' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:52:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email1' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'streetName' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:57:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:61:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:61:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'email1' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:65:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:69:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:73:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:80:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'addCustomer' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:84:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/service/CustomerService.java:84:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/service/CustomerService.java:89:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:93:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/service/CustomerService.java:93:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'upCustomer' is not assigned and could be declared final
+src/test/java/com/example/demo/ClaimManagementApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/example/demo/ClaimManagementApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/example/demo/ClaimManagementApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/example/demo/ClaimManagementApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
